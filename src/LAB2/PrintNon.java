@@ -1,7 +1,6 @@
 package LAB2;
 
-public class PrintCashTrans implements PrintBehavior {
-
+public class PrintNon implements  PrintBehavior {
     @Override
     public void print() {
 
